@@ -1,0 +1,9 @@
+Package: com.mbo42.CopyRedditTexts
+Name: CopyRedditTexts
+Depends: mobilesubstrate, firmware(>= 8)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Copy the text on Reddit posts and comments.
+Maintainer: mbo42
+Author: mbo42
+Section: Tweaks
